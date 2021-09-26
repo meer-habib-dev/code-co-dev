@@ -1,0 +1,18 @@
+.cart-container {
+  width: 300px;
+  min-height: 400px;
+  position: fixed;
+  top: 120px;
+  right: 5px;
+  background-color: #a281d5;
+  text-align: center;
+  color: white;
+}
+.cart-container h1 {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+.cart-info p {
+  /* display: inline-block; */
+}
